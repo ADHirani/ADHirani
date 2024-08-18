@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I’m @ADHirani  
+👋 Hi, I’m Anirudh Hirani
 👨‍💻 I am a Full-Stack Developer specializing in the MERN stack, with a solid foundation in both front-end and back-end technologies.  
 🔧 I have hands-on experience with Node.js, Express.js, React.js, Next.js, and MongoDB, as well as strong skills in working with SQL databases.  
 🚀 I am also proficient in deploying and managing applications on cloud platforms like AWS and Linode, including services such as EC2, Amplify, Lightsail, and more.  
