@@ -1,8 +1,9 @@
 # About Me:
-👋 Hi, I’m Anirudh Hirani
+👋 Hi, I’m Anirudh Hirani  
 👨‍💻 I am a Full-Stack Developer specializing in the MERN stack, with a solid foundation in both front-end and back-end technologies.  
 🔧 I have hands-on experience with Node.js, Express.js, React.js, Next.js, and MongoDB, as well as strong skills in working with SQL databases.  
 🚀 I am also proficient in deploying and managing applications on cloud platforms like AWS and Linode, including services such as EC2, Amplify, Lightsail, and more.  
+🌐 I have experience configuring web servers like Apache and Nginx for optimal performance and secure application deployment.  
 🌱 I am constantly exploring new technologies and methodologies to build robust, scalable, and efficient solutions.
 
 ## Tools and Tech Stack:
@@ -17,5 +18,5 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
